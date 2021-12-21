@@ -1,0 +1,7 @@
+{
+  "name": "marvel_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "marvel_app",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
