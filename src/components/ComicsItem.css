@@ -1,0 +1,13 @@
+.card{
+  background-color: #22272e;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+.card-title{
+  color: white;
+}
+
+.card-desc{
+  color: white;
+}
